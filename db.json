@@ -1,0 +1,84 @@
+{
+"products":[
+{
+  "id": 1,
+  "name": "Firefly",
+  "category": "Blue"
+}, {
+  "id": 2,
+  "name": "Caravan",
+  "category": "Mauv"
+}, {
+  "id": 3,
+  "name": "Jetta",
+  "category": "Indigo"
+}, {
+  "id": 4,
+  "name": "Lancer",
+  "category": "Mauv"
+}, {
+  "id": 5,
+  "name": "Grand Marquis",
+  "category": "Mauv"
+}, {
+  "id": 6,
+  "name": "C-Class",
+  "category": "Purple"
+}, {
+  "id": 7,
+  "name": "MX-5",
+  "category": "Red"
+}, {
+  "id": 8,
+  "name": "Expedition EL",
+  "category": "Fuscia"
+}, {
+  "id": 9,
+  "name": "850",
+  "category": "Aquamarine"
+}, {
+  "id": 10,
+  "name": "Forester",
+  "category": "Aquamarine"
+}, {
+  "id": 11,
+  "name": "GLC",
+  "category": "Purple"
+}, {
+  "id": 12,
+  "name": "RX",
+  "category": "Indigo"
+}, {
+  "id": 13,
+  "name": "Spectra",
+  "category": "Green"
+}, {
+  "id": 14,
+  "name": "Veracruz",
+  "category": "Khaki"
+}, {
+  "id": 15,
+  "name": "Camaro",
+  "category": "Maroon"
+}, {
+  "id": 16,
+  "name": "Monte Carlo",
+  "category": "Blue"
+}, {
+  "id": 17,
+  "name": "9-5",
+  "category": "Indigo"
+}, {
+  "id": 18,
+  "name": "Altima",
+  "category": "Khaki"
+}, {
+  "id": 19,
+  "name": "Regal",
+  "category": "Goldenrod"
+}, {
+  "id": 20,
+  "name": "Tacoma",
+  "category": "Goldenrod"
+}]
+}
